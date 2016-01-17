@@ -5,29 +5,29 @@
 <div class="jumbotron">
     <h1>大学城吃货聚集地</h1>
     <p class="lead">本站专为广州大学城学子提供方便快捷的美食外卖服务。</p>
-    <p class="lead">二十分钟送货上宿舍！无需等待，窝在被窝就能享受最棒的美食～～</p>
+    <p class="lead">二十分钟送货上宿舍！无需等待，窝在被窝里就能享受最棒的美食～～</p>
     <p><a href="/" class="btn btn-primary btn-large">吃 吃 吃 &raquo;</a></p>
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>模块一</h2>
+        <h2>管理用户</h2>
         <p>
-            模块一
+            点击此处进行用户管理～
         </p>
         <p><a class="btn btn-default" href="/">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>模块二</h2>
+        <h2>订餐服务</h2>
         <p>
-            模块二
+            一键快速订餐～
         </p>
         <p><a class="btn btn-default" href="/">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>模块三</h2>
+        <h2>我的店铺</h2>
         <p>
-            模块三
+            点击此处管理我的店铺。
         </p>
         <p><a class="btn btn-default" href="/">Learn more &raquo;</a></p>
     </div>
